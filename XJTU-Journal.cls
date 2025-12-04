@@ -35,6 +35,7 @@
 \RequirePackage{titlesec}%修改标题样式
 \RequirePackage{changepage}%过宽内容
 \RequirePackage{tikz}%绘图用
+\RequirePackage{fixltx2e}%通栏浮动体编号问题
 \usetikzlibrary{shapes.geometric, arrows}
 % 流程图定义基本形状
 \tikzstyle{startstop} = [rectangle, rounded corners, minimum width = 2cm, minimum height=0.5cm,text centered, draw = black]
