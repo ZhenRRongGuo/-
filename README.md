@@ -9,4 +9,4 @@
 
 # 模板使用
 * 请参考 main.tex, main.pdf 使用
-* 有时候 main.pdf无法正常显示，可以下载或复制 main.tex 自行编译后查看
+* 有时候 main.pdf 无法正常显示，可以下载或复制 main.tex 自行编译后查看
